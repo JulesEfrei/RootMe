@@ -2,7 +2,7 @@
 
 ## Énoncé
 
-    Une session d’authentification twitter a été capturée. Retrouvez le mot de passe de l’utilisateur dans cette capture réseau.
+Une session d’authentification twitter a été capturée. Retrouvez le mot de passe de l’utilisateur dans cette capture réseau.
 
 ## Méthode de résolution
 
